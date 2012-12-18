@@ -88,8 +88,6 @@ data = {"name": '%'+args.search_term+'%',
 
 last_word = ''
 
-print sql
-
 c.execute(sql, data)
 memories = c.fetchall()
 

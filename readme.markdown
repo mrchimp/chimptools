@@ -15,5 +15,8 @@ show.py
 
     show [--help] [--words] [--public | --private] [--mine] [--distinct] [word] [filter]
 
+umm.py
+======
 
+    umm [--help] [--public | --private] [--mine] search_term
 
